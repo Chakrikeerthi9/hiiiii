@@ -1,0 +1,24 @@
+body{
+    background: paleturquoise;
+    display: cover;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image{
+    height: 125px;
+}
+
+.but-1{
+    border-radius: 32px;
+    font-size : 16px;
+    height: 10%;
+    width: 4%;
+    margin: 8px;
+}
